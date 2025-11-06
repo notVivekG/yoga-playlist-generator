@@ -9,24 +9,24 @@
 </head>
 
 <body class="bg-white">
-  
-  <nav class="flex justify-between items-center px-8 py-4 bg-blue-200">
-    
+
+  <nav class="flex justify-between items-center px-4 py-2 bg-black shadow-md">
+
     <div class="flex items-center space-x-3">
-        <h1 class="text-2xl font-bold text-black">AI Yoga Course</h1>
-      <button id="yt" class="hover:text-blue-500 hover:bg-white text-shadow-black px-3 py-1 rounded-md font-semibold ">Buy now</button>
+      <h1 class="text-2xl font-bold text-white">AI Yoga Course</h1>
+      <button id="yt" class="hover:text-blue-500 hover:bg-white text-shadow-black px-1 py-1 rounded-md font-semibold ">Buy now</button>
     </div>
     
 
     <ul class="flex justify-center items-center space-x-8">
-      <li><button class="hover:text-blue-500 hover:bg-white text-black font-semibold px-4 py-2 rounded-md hover:opacity-90">HOME</button></li>
-      <li><button class="hover:text-blue-500 hover:bg-white text-black font-semibold px-4 py-2 rounded-md hover:opacity-90">About us</button></li>
-      <li><button class="hover:text-blue-500 hover:bg-white text-black font-semibold px-4 py-2 rounded-md hover:opacity-90">Contact us</button></li>
+      <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">HOME</button></li>
+      <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">About us</button></li>
+      <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">Contact us</button></li>
     </ul>
 
     
     <div>
-      <button class="hover:text-blue-500 hover:bg-white text-shadow-black px-4 py-2 rounded-md font-semibold hover:opacity-90">Log in</button>
+      <button class="hover:text-blue-500 hover:bg-white text-white px-4 py-2 rounded-md font-semibold hover:opacity-90">Log in</button>
     </div>
   </nav>
 
@@ -43,6 +43,7 @@
 
     const changeText2 = function () {
         document.querySelector('#yt').innerHTML = "60% off"
+        document.querySelector('#yt').style.color = "green";
         setTimeout(changeText, 2000)
     }
     changeText();

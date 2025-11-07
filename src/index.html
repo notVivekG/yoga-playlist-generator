@@ -13,20 +13,20 @@
   <nav class=" flex justify-between items-center px-4 py-2 bg-black shadow-md">
 
     <div class="flex items-center space-x-3">
-      <h1 class="text-2xl font-bold text-white">AI Yoga Course</h1>
-      <h3 id="yt" class="text-lg font-semibold text-white"></h3>
+      <h1 class="text-2xl font-bold text-white">AI Yoga Course</h1> 
+      <h3 id="yt"></h3>
     </div>
 
-     <ul class="flex justify-center items-center space-x-8 ">
+    <ul class="hidden md:flex justify-center items-center space-x-8 ">
       <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">HOME</button></li>
       <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">About us</button></li>
       <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">Contact us</button></li>
     </ul> 
 
-    
     <div>
       <button class="hover:text-blue-500 hover:bg-white text-white px-4 py-2 rounded-md font-semibold hover:opacity-90">Log in</button>
     </div>
+     
   </nav>
 
   
@@ -55,17 +55,19 @@
 
 
   const changeText = function () {
-    ytBtn.innerText = "Buy now";
+    ytBtn.textContent = "Buy now";
+    ytBtn.className = "text-lg mx-4 font-semibold bg-black hover:text-black hover:bg-gray-300 text-yellow-300 rounded-2xl py-1 px-2 min-w-[90px] text-center";
     setTimeout(changeText2, 2000);
   };
 
   const changeText2 = function () {
-    ytBtn.innerText = "60% off";
+    ytBtn.textContent = "60% off";
+    ytBtn.className = "text-lg mx-4 font-semibold bg-black hover:text-black hover:bg-gray-300 text-yellow-300 rounded-2xl py-1 px-2 min-w-[90px] text-center";
     setTimeout(changeText, 2000);
-    ytBtn.style.color = "red";
   };
 
   changeText();
 
 </script>
+
 </html>

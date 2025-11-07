@@ -10,19 +10,18 @@
 
 <body class="bg-white">
 
-  <nav class="flex justify-between items-center px-4 py-2 bg-black shadow-md">
+  <nav class=" flex justify-between items-center px-4 py-2 bg-black shadow-md">
 
     <div class="flex items-center space-x-3">
       <h1 class="text-2xl font-bold text-white">AI Yoga Course</h1>
-      <h3 id="yt" class="hover:text-blue-500 hover:bg-white text-shadow-black px-1 py-1 rounded-md font-semibold ">Buy now</h3>
+      <h3 id="yt" class="text-lg font-semibold text-white"></h3>
     </div>
-    
 
-    <ul class="flex justify-center items-center space-x-8">
+     <ul class="flex justify-center items-center space-x-8 ">
       <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">HOME</button></li>
       <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">About us</button></li>
       <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">Contact us</button></li>
-    </ul>
+    </ul> 
 
     
     <div>
@@ -31,21 +30,38 @@
   </nav>
 
   
-  <section class="w-full h-screen bg-cover bg-center" style="background-image: url('./your-image.jpg');">
+  <section class="flex flex-col items-center  text-center h-screen px-4 pt-5">
+    <button
+      class="px-5 py-2 mb-16 mt-8 text-sm font-semibold  text-black rounded-full shadow-md">
+      ✨ AI-Powered Yoga Courses
+    </button>
+    <h1 class="text-5xl md:text-8xl font-bold mb-16">
+      Your Personal Yoga Journey
+      <br>Starts Here
+    </h1>
+    <p class="text-gray-700 space-y-10 text-2xl  leading-relaxed">
+      Generate personalized yoga courses tailored to your level.<br>
+      Each day brings new lessons from expert instructors.
+    </p>
   </section>
 
 </body>
 <script>
-    const changeText = function () {
-        document.querySelector('#yt').innerHTML = "Buy now"
-        setTimeout(changeText2, 2000)
-    }
+  const ytBtn = document.querySelector('#yt');
 
-    const changeText2 = function () {
-        document.querySelector('#yt').innerHTML = "60% off"
-        document.querySelector('#yt').style.color = "yellow";
-        setTimeout(changeText, 2000)
-    }
-    changeText();
+
+  const changeText = function () {
+    ytBtn.innerText = "Buy now";
+    setTimeout(changeText2, 2000);
+  };
+
+  const changeText2 = function () {
+    ytBtn.innerText = "60% off";
+    setTimeout(changeText, 2000);
+    ytBtn.style.color = "red";
+  };
+
+  changeText();
+
 </script>
 </html>

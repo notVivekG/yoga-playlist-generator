@@ -1,0 +1,927 @@
+id,category,keyword,example_user_text
+1,MENTAL_STRESS,stress,I am under a lot of stress
+2,MENTAL_STRESS,stressed,I feel very stressed these days
+3,MENTAL_STRESS,anxiety,I have anxiety problems
+4,MENTAL_STRESS,anxious,I am feeling anxious
+5,MENTAL_STRESS,tension,There is tension in my mind
+6,MENTAL_STRESS,overthinking,I overthink a lot
+7,MENTAL_STRESS,worry,I always worry about everything
+8,MENTAL_STRESS,panic,Sometimes I get panic attacks
+9,MENTAL_STRESS,mental stress,I am facing mental stress
+10,MENTAL_STRESS,emotional stress,I am under emotional stress
+11,MENTAL_STRESS,psychological stress,I feel psychological stress
+12,MENTAL_STRESS,mental pressure,There is too much mental pressure on me
+13,MENTAL_STRESS,work stress,I have a lot of work stress
+14,MENTAL_STRESS,study stress,My studies are causing stress
+15,MENTAL_STRESS,exam stress,I am stressed because of exams
+16,MENTAL_STRESS,job pressure,My job pressure is increasing
+17,MENTAL_STRESS,restlessness,I feel restless all the time
+18,MENTAL_STRESS,nervousness,I feel nervous for no reason
+19,MENTAL_STRESS,fear,I have a lot of fear in my mind
+20,MENTAL_STRESS,panic disorder,I think I have panic disorder
+21,MENTAL_STRESS,uneasiness,I feel uneasy and uncomfortable
+22,MENTAL_STRESS,mental fatigue,I feel mentally tired
+23,MENTAL_STRESS,brain fatigue,My brain feels exhausted
+24,MENTAL_STRESS,irritation,I get irritated very easily
+25,MENTAL_STRESS,anger issues,I have anger issues
+26,MENTAL_STRESS,mood swings,I experience frequent mood swings
+27,MENTAL_STRESS,frustration,I feel frustrated all the time
+28,MENTAL_STRESS,hopelessness,I feel hopeless these days
+29,MENTAL_STRESS,helplessness,I feel helpless mentally
+30,MENTAL_STRESS,loneliness,I feel lonely and stressed
+31,MENTAL_STRESS,mental imbalance,I feel mentally imbalanced
+32,MENTAL_STRESS,low confidence,I have very low confidence
+33,MENTAL_STRESS,self doubt,I keep doubting myself
+34,MENTAL_STRESS,negative thoughts,I get negative thoughts
+35,MENTAL_STRESS,overloaded mind,My mind feels overloaded
+36,MENTAL_STRESS,mental disturbance,I have mental disturbance
+37,MENTAL_STRESS,emotional pain,I feel emotional pain
+38,MENTAL_STRESS,mental discomfort,I feel mental discomfort
+39,MENTAL_STRESS,stress headache,I get headaches due to stress
+40,MENTAL_STRESS,pressure,I cannot handle the pressure
+41,MENTAL_STRESS,worrying thoughts,I have worrying thoughts
+42,MENTAL_STRESS,mental chaos,There is mental chaos in my mind
+43,MENTAL_STRESS,emotional imbalance,I feel emotionally imbalanced
+44,MENTAL_STRESS,anxiety attack,I get anxiety attacks
+45,MENTAL_STRESS,panic feeling,I suddenly feel panic
+46,MENTAL_STRESS,stressful life,My life is very stressful
+47,MENTAL_STRESS,mental overload,I am suffering from mental overload
+48,MENTAL_STRESS,constant worry,I am in constant worry
+49,MENTAL_STRESS,emotional pressure,I feel emotional pressure
+50,MENTAL_STRESS,inner fear,I have inner fear
+51,MENTAL_STRESS,mental weakness,I feel mentally weak
+52,MENTAL_STRESS,emotional weakness,I feel emotionally weak
+53,MENTAL_STRESS,thinking too much,I am thinking too much
+54,MENTAL_STRESS,mental tension,I have mental tension
+55,MENTAL_STRESS,stress disorder,I think I have stress disorder
+56,MENTAL_STRESS,mental pain,I feel mental pain
+57,MENTAL_STRESS,psychological pressure,I feel psychological pressure
+58,MENTAL_STRESS,anxiety problem,I have anxiety problem
+59,MENTAL_STRESS,stress problem,I have stress problem
+60,MENTAL_STRESS,emotional stress disorder,I have emotional stress disorder
+61,MENTAL_STRESS,mental health issue,I have mental health issues
+62,MENTAL_STRESS,disturbed mind,My mind is disturbed
+63,MENTAL_STRESS,stress symptoms,I am experiencing stress symptoms
+64,MENTAL_STRESS,anxiety symptoms,I have anxiety symptoms
+65,MENTAL_STRESS,mental discomfort,My mind feels uncomfortable
+66,MENTAL_STRESS,emotional instability,I feel emotionally unstable
+67,MENTAL_STRESS,mental instability,I feel mentally unstable
+68,MENTAL_STRESS,constant tension,I am in constant tension
+69,MENTAL_STRESS,overloaded thoughts,My thoughts are overloaded
+70,MENTAL_STRESS,mental stress problem,I have mental stress problem
+71,MENTAL_STRESS,stress condition,I am in a stressful condition
+72,MENTAL_STRESS,anxiety condition,I am in an anxious condition
+73,MENTAL_STRESS,pressure feeling,I feel pressure all the time
+74,MENTAL_STRESS,mental heaviness,I feel heaviness in my mind
+75,MENTAL_STRESS,emotional burden,I feel emotional burden
+76,MENTAL_STRESS,inner tension,I feel inner tension
+77,MENTAL_STRESS,mental load,I have mental load
+78,MENTAL_STRESS,stressful thoughts,I have stressful thoughts
+79,MENTAL_STRESS,mental confusion,I feel mentally confused
+80,MENTAL_STRESS,emotional confusion,I feel emotionally confused
+81,MENTAL_STRESS,psychological discomfort,I feel psychological discomfort
+82,MENTAL_STRESS,anxiety stress,I have anxiety stress
+83,MENTAL_STRESS,mental strain,I feel mental strain
+84,MENTAL_STRESS,emotional strain,I feel emotional strain
+85,MENTAL_STRESS,stress anxiety,I have stress and anxiety
+86,MENTAL_STRESS,mental exhaustion,I feel mentally exhausted
+87,MENTAL_STRESS,emotional exhaustion,I feel emotionally exhausted
+88,MENTAL_STRESS,pressure anxiety,I feel pressure anxiety
+89,MENTAL_STRESS,mental disturbance problem,I have mental disturbance problem
+90,MENTAL_STRESS,stress overload,I am stressed and overloaded
+91,MENTAL_STRESS,anxious thoughts,I have anxious thoughts
+92,MENTAL_STRESS,stress fear,I feel stress and fear
+93,MENTAL_STRESS,mental breakdown,I fear mental breakdown
+94,MENTAL_STRESS,panic stress,I have panic and stress
+95,MENTAL_STRESS,mental restlessness,I feel mental restlessness
+96,MENTAL_STRESS,emotional tension,I have emotional tension
+97,MENTAL_STRESS,stress anxiety disorder,I have stress anxiety disorder
+98,MENTAL_STRESS,mental anxiety,I feel mental anxiety
+99,MENTAL_STRESS,psychological anxiety,I feel psychological anxiety
+100,MENTAL_STRESS,emotional anxiety,I feel emotional anxiety
+101,MENTAL_STRESS,mental burden,I feel mental burden
+102,BACK_PAIN,back pain,I have back pain
+103,BACK_PAIN,lower back,My lower back is hurting
+104,BACK_PAIN,spine,Pain in my spine area
+105,BACK_PAIN,slip disc,Doctor said I have a slip disc
+106,BACK_PAIN,sciatica,I have sciatica pain
+107,BACK_PAIN,upper back,I have pain in my upper back
+108,BACK_PAIN,lower back pain,I am suffering from lower back pain
+109,BACK_PAIN,spine pain,I feel pain in my spine
+110,BACK_PAIN,back ache,I have a constant back ache
+111,BACK_PAIN,lumbar pain,I have lumbar pain
+112,BACK_PAIN,back stiffness,My back feels very stiff
+113,BACK_PAIN,spinal pain,I am experiencing spinal pain
+114,BACK_PAIN,slip disc,Doctor told me I have slip disc
+115,BACK_PAIN,disc problem,I have a disc problem in my back
+116,BACK_PAIN,sciatica,I am suffering from sciatica
+117,BACK_PAIN,nerve pain,I have nerve pain in my back
+118,BACK_PAIN,back injury,I had a back injury earlier
+119,BACK_PAIN,back strain,I have strained my back
+120,BACK_PAIN,chronic back pain,I have chronic back pain
+121,BACK_PAIN,back discomfort,I feel discomfort in my back
+122,BACK_PAIN,spine stiffness,My spine feels stiff
+123,BACK_PAIN,lower spine pain,I have pain in my lower spine
+124,BACK_PAIN,upper spine pain,Pain occurs in my upper spine
+125,BACK_PAIN,back muscle pain,My back muscles are paining
+126,BACK_PAIN,back tightness,I feel tightness in my back
+127,BACK_PAIN,posture pain,My posture is causing back pain
+128,BACK_PAIN,back pressure,I feel pressure in my back
+129,BACK_PAIN,back weakness,My back feels weak
+130,BACK_PAIN,spinal discomfort,I have spinal discomfort
+131,BACK_PAIN,back soreness,My back feels sore
+132,BACK_PAIN,lumbar stiffness,I feel stiffness in lumbar area
+133,BACK_PAIN,lower back ache,I have ache in my lower back
+134,BACK_PAIN,upper back ache,My upper back aches
+135,BACK_PAIN,back pain problem,I have a serious back pain problem
+136,BACK_PAIN,spine issue,I have an issue with my spine
+137,BACK_PAIN,back stress,Stress is causing back pain
+138,BACK_PAIN,back tension,I feel tension in my back
+139,BACK_PAIN,disc pain,I have pain due to disc issue
+140,BACK_PAIN,back inflammation,I have inflammation in my back
+141,BACK_PAIN,lower back discomfort,I feel discomfort in lower back
+142,BACK_PAIN,spinal strain,My spine is strained
+143,BACK_PAIN,back pain while sitting,I get back pain while sitting
+144,BACK_PAIN,back pain while standing,I feel back pain while standing
+145,BACK_PAIN,back pain while walking,I experience back pain while walking
+146,BACK_PAIN,back pain while sleeping,I have back pain while sleeping
+147,BACK_PAIN,back pain continuously,I have continuous back pain
+148,OBESITY,overweight,I am overweight and want to reduce
+149,OBESITY,fat,I have too much body fat
+150,OBESITY,obesity,I am suffering from obesity
+151,OBESITY,weight gain,I am gaining weight continuously
+152,OBESITY,weight loss,I want to do yoga for weight loss
+153,OBESITY,belly fat,I want to reduce belly fat
+154,OBESITY,overweight,I am overweight and want to reduce
+155,OBESITY,body fat,I have too much body fat
+156,OBESITY,obesity,I am suffering from obesity
+157,OBESITY,weight gain,I am gaining weight continuously
+158,OBESITY,extra weight,I have extra weight on my body
+159,OBESITY,belly fat,I want to reduce belly fat
+160,OBESITY,stomach fat,I have stomach fat
+161,OBESITY,tummy fat,I want to reduce my tummy fat
+162,OBESITY,excess fat,I have excess fat in my body
+163,OBESITY,weight problem,I have a serious weight problem
+164,OBESITY,obese,I am obese and need help
+165,OBESITY,high body weight,My body weight is very high
+166,OBESITY,weight increase,My weight is increasing day by day
+167,OBESITY,unhealthy weight,I have unhealthy body weight
+168,OBESITY,fat body,My body has become very fat
+169,OBESITY,heavy body,My body feels very heavy
+170,OBESITY,weight imbalance,I have weight imbalance
+171,OBESITY,over body weight,I have over body weight
+172,OBESITY,body heaviness,I feel heaviness in my body
+173,OBESITY,fat accumulation,I have fat accumulation
+174,OBESITY,weight issues,I am facing weight issues
+175,OBESITY,extra fat,I have extra fat
+176,OBESITY,body fat increase,My body fat is increasing
+177,OBESITY,weight management,I need help with weight management
+178,OBESITY,weight reduction,I want weight reduction
+179,OBESITY,lose weight,I want to lose weight
+180,OBESITY,weight loss,I am looking for weight loss yoga
+181,OBESITY,fat loss,I want fat loss
+182,OBESITY,body shaping,I want body shaping
+183,OBESITY,overweight problem,I have overweight problem
+184,OBESITY,obesity problem,I have obesity problem
+185,OBESITY,weight disorder,I think I have weight disorder
+186,OBESITY,unbalanced weight,My weight is unbalanced
+187,OBESITY,body mass increase,My body mass is increasing
+188,OBESITY,high BMI,My BMI is very high
+189,OBESITY,body weight issue,I have body weight issues
+190,OBESITY,fat problem,I have fat problem
+191,OBESITY,weight control,I want to control my weight
+192,OBESITY,excess body weight,I have excess body weight
+193,OBESITY,over fat,My body has over fat
+194,OBESITY,weight pressure,My weight is putting pressure on me
+195,OBESITY,body fat problem,I have body fat problem
+196,OBESITY,obesity condition,I am in obesity condition
+197,OBESITY,heavy weight,I am carrying heavy weight
+198,OBESITY,weight overload,I feel weight overload
+199,OBESITY,body mass,My body mass is high
+200,OBESITY,overweight condition,I am in overweight condition
+201,OBESITY,body fat excess,I have excess body fat
+202,OBESITY,weight stress,My weight is stressing me
+203,OBESITY,physical heaviness,I feel physically heavy
+204,OBESITY,weight difficulty,I have difficulty managing weight
+205,OBESITY,unfit body weight,My body weight is unfit
+206,OBESITY,excess calories,I think excess calories caused my weight gain
+207,OBESITY,weight imbalance problem,I have weight imbalance problem
+208,OBESITY,fat gain,I am gaining fat
+209,OBESITY,obesity symptoms,I am experiencing obesity symptoms
+210,OBESITY,body fat disorder,I think I have body fat disorder
+211,OBESITY,over size body,My body size has increased
+212,OBESITY,weight growth,My weight is growing fast
+213,OBESITY,extra kilos,I have extra kilos
+214,OBESITY,body size increase,My body size is increasing
+215,OBESITY,obesity risk,I am at obesity risk
+216,OBESITY,weight related issue,I have weight related issue
+217,OBESITY,over nourishment,Over nourishment caused my weight gain
+218,OBESITY,weight trouble,My weight is troubling me
+219,OBESITY,body mass problem,I have body mass problem
+220,OBESITY,weight difficulty problem,Weight management is difficult for me
+221,OBESITY,fat storage,My body stores too much fat
+222,OBESITY,weight imbalance issue,I have weight imbalance issue
+223,OBESITY,body heaviness problem,I feel body heaviness problem
+224,OBESITY,excess weight problem,I have excess weight problem
+225,OBESITY,weight concern,My weight is my main concern
+226,OBESITY,body fat concern,I am concerned about body fat
+227,OBESITY,obesity worry,I worry about my obesity
+228,OBESITY,weight anxiety,I have anxiety about my weight
+229,OBESITY,overweight stress,My overweight is stressing me
+230,OBESITY,weight management issue,I have weight management issue
+231,OBESITY,fat reduction,I want fat reduction
+232,OBESITY,weight reduction goal,My goal is weight reduction
+233,OBESITY,body transformation,I want body transformation
+234,OBESITY,over fat body,My body is over fat
+235,OBESITY,weight improvement,I want weight improvement
+236,OBESITY,body weight improvement,I want to improve my body weight
+237,OBESITY,obesity control,I want to control obesity
+238,OBESITY,weight health issue,My weight is a health issue
+239,OBESITY,body fat health issue,Body fat is causing health issues
+240,OBESITY,weight problem continuously,I have continuous weight problem
+241,FLEXIBILITY,stiff,My body is very stiff
+242,FLEXIBILITY,flexibility,I want to improve flexibility
+243,FLEXIBILITY,stretch,I want stretching yoga
+244,FLEXIBILITY,stiff,My body is very stiff
+245,FLEXIBILITY,flexibility,I want to improve flexibility
+246,FLEXIBILITY,body stiffness,I feel body stiffness
+247,FLEXIBILITY,muscle stiffness,My muscles are stiff
+248,FLEXIBILITY,joint stiffness,I have stiffness in my joints
+249,FLEXIBILITY,rigid body,My body feels rigid
+250,FLEXIBILITY,less flexibility,I have very less flexibility
+251,FLEXIBILITY,tight body,My body feels tight
+252,FLEXIBILITY,tight muscles,My muscles are very tight
+253,FLEXIBILITY,stretching,I want stretching exercises
+254,FLEXIBILITY,stretch yoga,I want stretch yoga
+255,FLEXIBILITY,flexible body,I want a flexible body
+256,FLEXIBILITY,body tightness,I feel tightness in my body
+257,FLEXIBILITY,poor flexibility,My flexibility is poor
+258,FLEXIBILITY,stiff muscles,My muscles feel stiff
+259,FLEXIBILITY,hard joints,My joints feel hard
+260,FLEXIBILITY,body rigidity,I feel body rigidity
+261,FLEXIBILITY,limited movement,I have limited body movement
+262,FLEXIBILITY,restricted movement,My movements are restricted
+263,FLEXIBILITY,stretch problem,I have stretch problems
+264,FLEXIBILITY,unable to bend,I am unable to bend properly
+265,FLEXIBILITY,body tight,My body is very tight
+266,FLEXIBILITY,stiff legs,My legs feel stiff
+267,FLEXIBILITY,stiff arms,My arms are stiff
+268,FLEXIBILITY,neck stiffness,I have neck stiffness
+269,FLEXIBILITY,shoulder stiffness,My shoulders are stiff
+270,FLEXIBILITY,hip stiffness,I feel stiffness in hips
+271,FLEXIBILITY,hamstring tightness,My hamstrings are tight
+272,FLEXIBILITY,lower body stiffness,My lower body feels stiff
+273,FLEXIBILITY,upper body stiffness,My upper body feels stiff
+274,FLEXIBILITY,muscle tightness,I have muscle tightness
+275,FLEXIBILITY,body stretch issue,I have body stretch issues
+276,FLEXIBILITY,poor stretching,I am poor at stretching
+277,FLEXIBILITY,body inflexibility,My body is inflexible
+278,FLEXIBILITY,flexibility problem,I have flexibility problems
+279,FLEXIBILITY,body hardness,My body feels hard
+280,FLEXIBILITY,joint tightness,My joints feel tight
+281,FLEXIBILITY,limited flexibility,I have limited flexibility
+282,FLEXIBILITY,stiff posture,My posture is stiff
+283,FLEXIBILITY,rigid muscles,My muscles are rigid
+284,FLEXIBILITY,body movement issue,I have body movement issues
+285,FLEXIBILITY,flexibility improvement,I want flexibility improvement
+286,FLEXIBILITY,stretch goal,My goal is stretching
+287,FLEXIBILITY,flexibility training,I want flexibility training
+288,FLEXIBILITY,body loosening,I want to loosen my body
+289,FLEXIBILITY,stretch practice,I want stretch practice
+290,FLEXIBILITY,flexibility increase,I want to increase flexibility
+291,FLEXIBILITY,body tight problem,I have body tight problem
+292,FLEXIBILITY,stiff back,My back feels stiff
+293,FLEXIBILITY,stiff neck,My neck is stiff
+294,FLEXIBILITY,joint flexibility,I want joint flexibility
+295,FLEXIBILITY,body looseness,I want body looseness
+296,FLEXIBILITY,poor mobility,My mobility is poor
+297,FLEXIBILITY,mobility issue,I have mobility issues
+298,FLEXIBILITY,flexibility exercise,I want flexibility exercises
+299,FLEXIBILITY,stretch discomfort,Stretching causes discomfort
+300,FLEXIBILITY,flexibility pain,I feel pain while stretching
+301,FLEXIBILITY,body stiffness issue,I have body stiffness issue
+302,FLEXIBILITY,flexibility yoga,I want flexibility yoga
+303,FLEXIBILITY,stretch routine,I want a stretch routine
+304,FLEXIBILITY,body mobility,I want better body mobility
+305,FLEXIBILITY,stiff joints,My joints are stiff
+306,FLEXIBILITY,muscle rigidity,I feel muscle rigidity
+307,FLEXIBILITY,body stretch need,I need body stretching
+308,FLEXIBILITY,flexibility limitation,I have flexibility limitations
+309,FLEXIBILITY,restricted flexibility,My flexibility is restricted
+310,FLEXIBILITY,body movement stiffness,My body movement is stiff
+311,FLEXIBILITY,stretch difficulty,I find stretching difficult
+312,FLEXIBILITY,body loosening yoga,I want body loosening yoga
+313,FLEXIBILITY,flexibility concern,I am concerned about flexibility
+314,FLEXIBILITY,stiffness problem,I have stiffness problem
+315,FLEXIBILITY,stretch improvement,I want to improve stretching
+316,FLEXIBILITY,flexibility loss,I feel flexibility loss
+317,FLEXIBILITY,body tight feeling,I feel tight in my body
+318,FLEXIBILITY,stiff body problem,I have stiff body problem
+319,FLEXIBILITY,body flexibility issue,I have body flexibility issue
+320,FLEXIBILITY,stretch pain,I get pain while stretching
+321,FLEXIBILITY,flexibility goal,My goal is flexibility
+322,FLEXIBILITY,body stiffness continuously,I have continuous body stiffness
+323,FLEXIBILITY,flexibility health,Flexibility is affecting my health
+324,GENERAL_FITNESS,fitness,I want general fitness
+325,GENERAL_FITNESS,healthy,I want to stay healthy
+326,GENERAL_FITNESS,energy,I want more energy in my body
+327,GENERAL_FITNESS,fitness,I want general fitness
+328,GENERAL_FITNESS,healthy body,I want a healthy body
+329,GENERAL_FITNESS,stay fit,I want to stay fit
+330,GENERAL_FITNESS,body fitness,I want to improve body fitness
+331,GENERAL_FITNESS,overall fitness,I want overall fitness
+332,GENERAL_FITNESS,physical fitness,I want physical fitness
+333,GENERAL_FITNESS,good health,I want good health
+334,GENERAL_FITNESS,healthy lifestyle,I want a healthy lifestyle
+335,GENERAL_FITNESS,active body,I want an active body
+336,GENERAL_FITNESS,fit body,I want a fit body
+337,GENERAL_FITNESS,body strength,I want body strength
+338,GENERAL_FITNESS,energy,I want more energy
+339,GENERAL_FITNESS,body energy,I want more energy in my body
+340,GENERAL_FITNESS,stamina,I want to increase stamina
+341,GENERAL_FITNESS,body stamina,I want better body stamina
+342,GENERAL_FITNESS,physical strength,I want physical strength
+343,GENERAL_FITNESS,healthy routine,I want a healthy routine
+344,GENERAL_FITNESS,fitness routine,I want a fitness routine
+345,GENERAL_FITNESS,body movement,I want better body movement
+346,GENERAL_FITNESS,flexible fitness,I want flexible fitness
+347,GENERAL_FITNESS,fit lifestyle,I want a fit lifestyle
+348,GENERAL_FITNESS,body wellness,I want body wellness
+349,GENERAL_FITNESS,overall health,I want overall health
+350,GENERAL_FITNESS,healthy living,I want healthy living
+351,GENERAL_FITNESS,fitness improvement,I want to improve fitness
+352,GENERAL_FITNESS,fitness goal,My goal is fitness
+353,GENERAL_FITNESS,fitness training,I want fitness training
+354,GENERAL_FITNESS,body balance,I want better body balance
+355,GENERAL_FITNESS,mental and physical fitness,I want mental and physical fitness
+356,GENERAL_FITNESS,healthy habits,I want to build healthy habits
+357,GENERAL_FITNESS,fit and healthy,I want to be fit and healthy
+358,GENERAL_FITNESS,body activation,I want body activation
+359,GENERAL_FITNESS,fitness exercises,I want fitness exercises
+360,GENERAL_FITNESS,daily fitness,I want daily fitness
+361,GENERAL_FITNESS,body conditioning,I want body conditioning
+362,GENERAL_FITNESS,fitness maintenance,I want to maintain fitness
+363,GENERAL_FITNESS,healthy fitness,I want healthy fitness
+364,GENERAL_FITNESS,physical wellness,I want physical wellness
+365,GENERAL_FITNESS,fitness improvement plan,I want a fitness improvement plan
+366,GENERAL_FITNESS,body freshness,I want body freshness
+367,GENERAL_FITNESS,energy boost,I want an energy boost
+368,GENERAL_FITNESS,active lifestyle,I want an active lifestyle
+369,GENERAL_FITNESS,body vitality,I want body vitality
+370,GENERAL_FITNESS,fitness health,Fitness is important for my health
+371,GENERAL_FITNESS,full body fitness,I want full body fitness
+372,GENERAL_FITNESS,balanced fitness,I want balanced fitness
+373,GENERAL_FITNESS,fitness awareness,I want fitness awareness
+374,GENERAL_FITNESS,health improvement,I want health improvement
+375,GENERAL_FITNESS,body fitness improvement,I want body fitness improvement
+376,GENERAL_FITNESS,fitness motivation,I need fitness motivation
+377,GENERAL_FITNESS,healthy fitness goal,My goal is healthy fitness
+378,GENERAL_FITNESS,fitness lifestyle,I want a fitness lifestyle
+379,GENERAL_FITNESS,body activity,I want more body activity
+380,GENERAL_FITNESS,fitness practice,I want fitness practice
+381,GENERAL_FITNESS,body strengthening,I want body strengthening
+382,GENERAL_FITNESS,physical activity,I want more physical activity
+383,GENERAL_FITNESS,fitness focus,I want to focus on fitness
+384,GENERAL_FITNESS,health and fitness,I want health and fitness
+385,GENERAL_FITNESS,body endurance,I want body endurance
+386,GENERAL_FITNESS,fitness improvement goal,My goal is fitness improvement
+387,GENERAL_FITNESS,body care,I want to take care of my body
+388,GENERAL_FITNESS,fitness habit,I want to build a fitness habit
+389,GENERAL_FITNESS,healthy body goal,My goal is a healthy body
+390,GENERAL_FITNESS,fitness awareness program,I want fitness awareness program
+391,GENERAL_FITNESS,fitness consistency,I want fitness consistency
+392,GENERAL_FITNESS,body conditioning exercises,I want body conditioning exercises
+393,GENERAL_FITNESS,fitness improvement yoga,I want yoga for fitness improvement
+394,GENERAL_FITNESS,body wellness routine,I want body wellness routine
+395,GENERAL_FITNESS,fitness and energy,I want fitness and energy
+396,GENERAL_FITNESS,overall body health,I want overall body health
+397,GENERAL_FITNESS,fitness training routine,I want a fitness training routine
+398,GENERAL_FITNESS,body fitness goal,My body fitness is my goal
+399,GENERAL_FITNESS,healthy activity,I want healthy activity
+400,GENERAL_FITNESS,fitness balance,I want fitness balance
+401,GENERAL_FITNESS,fitness improvement exercises,I want exercises for fitness improvement
+402,GENERAL_FITNESS,body strength improvement,I want body strength improvement
+403,GENERAL_FITNESS,fitness energy boost,I want fitness energy boost
+404,GENERAL_FITNESS,healthy physical body,I want a healthy physical body
+405,GENERAL_FITNESS,fitness support,I need support for fitness
+406,GENERAL_FITNESS,fitness development,I want fitness development
+407,GENERAL_FITNESS,fitness progress,I want to see fitness progress
+408,GENERAL_FITNESS,body performance,I want better body performance
+409,GENERAL_FITNESS,fitness improvement lifestyle,I want a fitness improvement lifestyle
+410,GENERAL_FITNESS,fitness and wellness,I want fitness and wellness
+411,GENERAL_FITNESS,healthy body routine,I want a healthy body routine
+412,GENERAL_FITNESS,fitness motivation help,I need help with fitness motivation
+413,GENERAL_FITNESS,physical fitness improvement,I want physical fitness improvement
+414,GENERAL_FITNESS,fitness habit building,I want to build fitness habits
+415,GENERAL_FITNESS,healthy fitness lifestyle,I want a healthy fitness lifestyle
+416,GENERAL_FITNESS,body energy improvement,I want body energy improvement
+417,GENERAL_FITNESS,fitness care,I want fitness care
+418,GENERAL_FITNESS,fitness improvement journey,I want to start my fitness journey
+419,GENERAL_FITNESS,healthy body maintenance,I want to maintain a healthy body
+420,GENERAL_FITNESS,fitness lifestyle change,I want to change my fitness lifestyle
+421,GENERAL_FITNESS,body wellness improvement,I want body wellness improvement
+422,GENERAL_FITNESS,fitness health improvement,I want fitness health improvement
+423,GENERAL_FITNESS,fitness improvement focus,I want to focus on fitness improvement
+424,GENERAL_FITNESS,fitness and strength,I want fitness and strength
+425,GENERAL_FITNESS,overall fitness improvement,I want overall fitness improvement
+426,GENERAL_FITNESS,fitness goal achievement,I want to achieve my fitness goals
+427,SLEEP_PROBLEMS,insomnia,I am suffering from insomnia
+428,SLEEP_PROBLEMS,sleeplessness,I have sleeplessness at night
+429,SLEEP_PROBLEMS,poor sleep,I am not getting proper sleep
+430,SLEEP_PROBLEMS,disturbed sleep,My sleep is very disturbed
+431,SLEEP_PROBLEMS,lack of sleep,I have lack of sleep
+432,SLEEP_PROBLEMS,night waking,I wake up many times at night
+433,SLEEP_PROBLEMS,unable to sleep,I am unable to sleep properly
+434,SLEEP_PROBLEMS,sleep disorder,I think I have a sleep disorder
+435,SLEEP_PROBLEMS,irregular sleep,My sleep schedule is irregular
+436,SLEEP_PROBLEMS,light sleep,I get very light sleep
+437,SLEEP_PROBLEMS,deep sleep problem,I do not get deep sleep
+438,SLEEP_PROBLEMS,broken sleep,My sleep breaks frequently
+439,SLEEP_PROBLEMS,tired after sleep,I feel tired even after sleep
+440,SLEEP_PROBLEMS,restless sleep,My sleep is restless
+441,SLEEP_PROBLEMS,sleep anxiety,I feel anxious while sleeping
+442,SLEEP_PROBLEMS,sleep stress,Stress affects my sleep
+443,SLEEP_PROBLEMS,late night sleep,I sleep very late at night
+444,SLEEP_PROBLEMS,early waking,I wake up too early
+445,SLEEP_PROBLEMS,night restlessness,I feel restless at night
+446,SLEEP_PROBLEMS,sleep discomfort,I feel discomfort while sleeping
+447,SLEEP_PROBLEMS,mental disturbance at night,My mind disturbs me at night
+448,SLEEP_PROBLEMS,night overthinking,I overthink at night
+449,SLEEP_PROBLEMS,bedtime anxiety,I feel anxiety at bedtime
+450,SLEEP_PROBLEMS,sleep quality issue,My sleep quality is poor
+451,SLEEP_PROBLEMS,night tension,I feel tension at night
+452,SLEEP_PROBLEMS,unable to relax at night,I cannot relax at night
+453,SLEEP_PROBLEMS,poor night rest,I do not get proper night rest
+454,SLEEP_PROBLEMS,irregular bedtime,My bedtime is irregular
+455,SLEEP_PROBLEMS,sleep fatigue,I feel fatigue due to poor sleep
+456,SLEEP_PROBLEMS,night discomfort,I feel discomfort during night
+457,SLEEP_PROBLEMS,stressful sleep,My sleep is stressful
+458,SLEEP_PROBLEMS,mental noise at night,My mind does not calm down at night
+459,SLEEP_PROBLEMS,sleep problem continuously,I have continuous sleep problems
+460,SLEEP_PROBLEMS,sleep disturbance,I have sleep disturbance
+461,SLEEP_PROBLEMS,night anxiety attacks,I get anxiety attacks at night
+462,SLEEP_PROBLEMS,poor rest,I am not getting enough rest
+463,SLEEP_PROBLEMS,sleep imbalance,My sleep cycle is imbalanced
+464,SLEEP_PROBLEMS,night rest problem,I have night rest problems
+465,SLEEP_PROBLEMS,difficulty falling asleep,I find it hard to fall asleep
+466,SLEEP_PROBLEMS,frequent night waking,I wake frequently at night
+467,SLEEP_PROBLEMS,mental stress at night,Mental stress affects my sleep
+468,SLEEP_PROBLEMS,sleep tension,I feel tension while sleeping
+469,SLEEP_PROBLEMS,sleep exhaustion,Poor sleep makes me exhausted
+470,SLEEP_PROBLEMS,night sleep issue,I have night sleep issues
+471,SLEEP_PROBLEMS,irregular sleep cycle,My sleep cycle is irregular
+472,SLEEP_PROBLEMS,disturbed night rest,My night rest is disturbed
+473,SLEEP_PROBLEMS,sleep discomfort problem,I have discomfort while sleeping
+474,SLEEP_PROBLEMS,sleep health issue,My sleep is affecting my health
+475,SLEEP_PROBLEMS,sleep recovery problem,Sleep is not helping me recover
+476,SLEEP_PROBLEMS,night mental activity,My brain stays active at night
+477,SLEEP_PROBLEMS,sleep pressure,I feel pressure to sleep
+478,SLEEP_PROBLEMS,sleep routine issue,I have sleep routine issues
+479,SLEEP_PROBLEMS,sleep habit problem,My sleep habits are bad
+480,SLEEP_PROBLEMS,night worry,I worry too much at night
+481,SLEEP_PROBLEMS,sleep tension problem,Tension causes sleep problems
+482,SLEEP_PROBLEMS,night fear,I feel fear at night
+483,SLEEP_PROBLEMS,bedtime stress,I feel stress before sleep
+484,SLEEP_PROBLEMS,poor relaxation at night,I cannot relax at night
+485,SLEEP_PROBLEMS,sleep disturbance daily,I face sleep disturbance daily
+486,SLEEP_PROBLEMS,sleep quality loss,My sleep quality is lost
+487,SLEEP_PROBLEMS,night sleep anxiety,I feel anxious during night sleep
+488,SLEEP_PROBLEMS,sleep instability,My sleep is unstable
+489,SLEEP_PROBLEMS,sleep exhaustion problem,Poor sleep exhausts me
+490,SLEEP_PROBLEMS,night restlessness problem,I have night restlessness problem
+491,SLEEP_PROBLEMS,sleep difficulty problem,I have difficulty sleeping
+492,SLEEP_PROBLEMS,mental unrest at night,My mind is restless at night
+493,SLEEP_PROBLEMS,sleep imbalance problem,I have sleep imbalance problem
+494,SLEEP_PROBLEMS,sleep stress disorder,Stress causes sleep disorder
+495,SLEEP_PROBLEMS,night calmness issue,I cannot feel calm at night
+496,SLEEP_PROBLEMS,poor sleep health,My sleep health is poor
+497,SLEEP_PROBLEMS,night sleep discomfort,I feel discomfort while sleeping at night
+498,SLEEP_PROBLEMS,sleep fatigue issue,Sleep fatigue affects my day
+499,SLEEP_PROBLEMS,night relaxation issue,I cannot relax at night
+500,SLEEP_PROBLEMS,sleep disturbance due to stress,Stress disturbs my sleep
+501,SLEEP_PROBLEMS,bedtime mental stress,Mental stress at bedtime
+502,SLEEP_PROBLEMS,sleep rest issue,My sleep rest is insufficient
+503,SLEEP_PROBLEMS,night sleep pressure,I feel pressure during night sleep
+504,SLEEP_PROBLEMS,poor sleep routine,My sleep routine is poor
+505,SLEEP_PROBLEMS,night mind activity,My mind stays active at night
+506,SLEEP_PROBLEMS,sleep disturbance symptoms,I have sleep disturbance symptoms
+507,SLEEP_PROBLEMS,sleep tiredness,Sleep makes me feel tired
+508,SLEEP_PROBLEMS,night worry problem,I have night worry problem
+509,SLEEP_PROBLEMS,restless mind at night,My mind is restless at night
+510,SLEEP_PROBLEMS,sleep disorder symptoms,I show sleep disorder symptoms
+511,SLEEP_PROBLEMS,night sleep trouble,I have trouble sleeping at night
+512,SLEEP_PROBLEMS,mental overload at night,Mental overload disturbs sleep
+513,SLEEP_PROBLEMS,sleep discomfort issue,Sleep discomfort bothers me
+514,SLEEP_PROBLEMS,night sleep stress,Night sleep stress affects me
+515,SLEEP_PROBLEMS,poor sleep control,I cannot control my sleep
+516,SLEEP_PROBLEMS,night rest problem continuously,I have continuous night rest problems
+517,SLEEP_PROBLEMS,sleep wellness issue,Sleep wellness is affected
+518,SLEEP_PROBLEMS,night relaxation problem,Relaxation at night is difficult
+519,SLEEP_PROBLEMS,sleep anxiety problem,I have sleep anxiety problem
+520,SLEEP_PROBLEMS,night sleep imbalance,My night sleep is imbalanced
+521,SLEEP_PROBLEMS,sleep discomfort health issue,Sleep discomfort affects my health
+522,SLEEP_PROBLEMS,sleep disturbance anxiety,Sleep disturbance causes anxiety
+523,SLEEP_PROBLEMS,night sleep disorder,I think I have night sleep disorder
+524,SLEEP_PROBLEMS,sleep recovery issue,Sleep is not helping recovery
+525,SLEEP_PROBLEMS,sleep health concern,I am concerned about sleep health
+526,SLEEP_PROBLEMS,night sleep improvement,I want to improve my night sleep
+527,DIGESTION_PROBLEMS,indigestion,I am suffering from indigestion
+528,DIGESTION_PROBLEMS,constipation,I have constipation problem
+529,DIGESTION_PROBLEMS,gas problem,I have gas problem
+530,DIGESTION_PROBLEMS,bloating,My stomach feels bloated
+531,DIGESTION_PROBLEMS,acidity,I suffer from acidity
+532,DIGESTION_PROBLEMS,stomach pain,I have stomach pain
+533,DIGESTION_PROBLEMS,poor digestion,My digestion is poor
+534,DIGESTION_PROBLEMS,digestive issue,I have digestive issues
+535,DIGESTION_PROBLEMS,gastric problem,I have gastric problem
+536,DIGESTION_PROBLEMS,stomach discomfort,I feel discomfort in my stomach
+537,DIGESTION_PROBLEMS,irregular digestion,My digestion is irregular
+538,DIGESTION_PROBLEMS,indigestion problem,I have indigestion problem
+539,DIGESTION_PROBLEMS,hard stool,I have hard stool problem
+540,DIGESTION_PROBLEMS,slow digestion,My digestion is slow
+541,DIGESTION_PROBLEMS,gas formation,I have gas formation
+542,DIGESTION_PROBLEMS,abdominal pain,I have abdominal pain
+543,DIGESTION_PROBLEMS,stomach heaviness,I feel heaviness in stomach
+544,DIGESTION_PROBLEMS,poor gut health,My gut health is poor
+545,DIGESTION_PROBLEMS,digestive weakness,I have digestive weakness
+546,DIGESTION_PROBLEMS,acid reflux,I have acid reflux
+547,DIGESTION_PROBLEMS,heartburn,I feel heartburn
+548,DIGESTION_PROBLEMS,frequent gas,I get gas frequently
+549,DIGESTION_PROBLEMS,stomach upset,My stomach is upset
+550,DIGESTION_PROBLEMS,digestion disorder,I think I have digestion disorder
+551,DIGESTION_PROBLEMS,gas pain,I feel pain due to gas
+552,DIGESTION_PROBLEMS,indigestion stress,Stress affects my digestion
+553,DIGESTION_PROBLEMS,bowel problem,I have bowel problems
+554,DIGESTION_PROBLEMS,irregular bowel movement,My bowel movement is irregular
+555,DIGESTION_PROBLEMS,gastric discomfort,I feel gastric discomfort
+556,DIGESTION_PROBLEMS,poor stomach health,My stomach health is poor
+557,DIGESTION_PROBLEMS,abdominal discomfort,I feel abdominal discomfort
+558,DIGESTION_PROBLEMS,digestive imbalance,My digestion is imbalanced
+559,DIGESTION_PROBLEMS,acidity problem,I have acidity problem
+560,DIGESTION_PROBLEMS,gas bloating,Gas causes bloating
+561,DIGESTION_PROBLEMS,constipation issue,Constipation is troubling me
+562,DIGESTION_PROBLEMS,weak digestion,My digestion is weak
+563,DIGESTION_PROBLEMS,stomach pressure,I feel pressure in my stomach
+564,DIGESTION_PROBLEMS,indigestion continuously,I have indigestion continuously
+565,DIGESTION_PROBLEMS,digestive pain,I have pain due to digestion issues
+566,DIGESTION_PROBLEMS,poor digestion health,My digestion health is poor
+567,DIGESTION_PROBLEMS,stomach tightness,I feel tightness in stomach
+568,DIGESTION_PROBLEMS,gas trouble,Gas trouble affects me
+569,DIGESTION_PROBLEMS,digestive discomfort,I feel digestive discomfort
+570,DIGESTION_PROBLEMS,stomach cramps,I get stomach cramps
+571,DIGESTION_PROBLEMS,bowel discomfort,I feel bowel discomfort
+572,DIGESTION_PROBLEMS,digestive stress,Stress causes digestive problems
+573,DIGESTION_PROBLEMS,irregular digestion problem,I have irregular digestion problem
+574,DIGESTION_PROBLEMS,gas accumulation,Gas accumulates in my stomach
+575,DIGESTION_PROBLEMS,poor digestion routine,My digestion routine is poor
+576,DIGESTION_PROBLEMS,abdominal bloating,I have abdominal bloating
+577,DIGESTION_PROBLEMS,digestive health issue,I have digestive health issue
+578,DIGESTION_PROBLEMS,gas pain problem,Gas pain is severe
+579,DIGESTION_PROBLEMS,stomach digestion issue,I have stomach digestion issue
+580,DIGESTION_PROBLEMS,constipation discomfort,Constipation causes discomfort
+581,DIGESTION_PROBLEMS,indigestion symptoms,I have indigestion symptoms
+582,DIGESTION_PROBLEMS,stomach gas pain,I have stomach gas pain
+583,DIGESTION_PROBLEMS,poor gut digestion,My gut digestion is poor
+584,DIGESTION_PROBLEMS,digestive system issue,My digestive system has issues
+585,DIGESTION_PROBLEMS,gas problem continuously,I have continuous gas problem
+586,DIGESTION_PROBLEMS,abdominal heaviness,I feel abdominal heaviness
+587,DIGESTION_PROBLEMS,digestive imbalance problem,I have digestive imbalance problem
+588,DIGESTION_PROBLEMS,stomach digestion weakness,My stomach digestion is weak
+589,DIGESTION_PROBLEMS,irregular bowel issue,I have irregular bowel issues
+590,DIGESTION_PROBLEMS,digestive fatigue,Digestive problems make me tired
+591,DIGESTION_PROBLEMS,acidic stomach,My stomach is acidic
+592,DIGESTION_PROBLEMS,digestive stress issue,Digestive stress affects me
+593,DIGESTION_PROBLEMS,stomach discomfort problem,I have stomach discomfort problem
+594,DIGESTION_PROBLEMS,poor digestive control,I cannot control digestion
+595,DIGESTION_PROBLEMS,digestive health concern,I worry about digestive health
+596,DIGESTION_PROBLEMS,gas pressure,I feel gas pressure
+597,DIGESTION_PROBLEMS,abdominal gas issue,I have abdominal gas issue
+598,DIGESTION_PROBLEMS,indigestion pain,Indigestion causes pain
+599,DIGESTION_PROBLEMS,digestive system weakness,My digestive system is weak
+600,DIGESTION_PROBLEMS,stomach health issue,I have stomach health issues
+601,DIGESTION_PROBLEMS,digestive discomfort continuously,Digestive discomfort is continuous
+602,DIGESTION_PROBLEMS,gas and bloating,I have gas and bloating
+603,DIGESTION_PROBLEMS,poor digestive habit,My digestive habits are poor
+604,DIGESTION_PROBLEMS,abdominal pain problem,I have abdominal pain problem
+605,DIGESTION_PROBLEMS,digestive irritation,I feel digestive irritation
+606,DIGESTION_PROBLEMS,stomach pressure problem,I feel stomach pressure problem
+607,DIGESTION_PROBLEMS,digestive health imbalance,Digestive health is imbalanced
+608,DIGESTION_PROBLEMS,irregular stomach,My stomach works irregularly
+609,DIGESTION_PROBLEMS,acidic digestion,I have acidic digestion
+610,DIGESTION_PROBLEMS,digestive disturbance,I have digestive disturbance
+611,DIGESTION_PROBLEMS,stomach digestion pain,Digestion causes stomach pain
+612,DIGESTION_PROBLEMS,gas trouble continuously,Gas trouble is continuous
+613,DIGESTION_PROBLEMS,abdominal discomfort problem,I have abdominal discomfort problem
+614,DIGESTION_PROBLEMS,digestive health stress,Digestive health stresses me
+615,DIGESTION_PROBLEMS,poor stomach digestion,My stomach digestion is poor
+616,DIGESTION_PROBLEMS,digestive imbalance symptoms,I have digestive imbalance symptoms
+617,DIGESTION_PROBLEMS,stomach digestion disorder,I think I have digestion disorder
+618,DIGESTION_PROBLEMS,gas digestion issue,Gas affects my digestion
+619,DIGESTION_PROBLEMS,acid reflux problem,I have acid reflux problem
+620,DIGESTION_PROBLEMS,digestive discomfort health issue,Digestive discomfort affects my health
+621,DIGESTION_PROBLEMS,stomach gas discomfort,Gas causes stomach discomfort
+622,DIGESTION_PROBLEMS,digestive health improvement,I want to improve digestion
+623,DIGESTION_PROBLEMS,gas pain health issue,Gas pain affects my health
+624,DIGESTION_PROBLEMS,digestive routine issue,My digestion routine is poor
+625,DIGESTION_PROBLEMS,stomach digestion improvement,I want to improve stomach digestion
+626,DIGESTION_PROBLEMS,digestive wellness,I want better digestive wellness
+627,NECK_SHOULDER_PAIN,neck pain,I have neck pain
+628,NECK_SHOULDER_PAIN,stiff neck,My neck feels very stiff
+629,NECK_SHOULDER_PAIN,cervical pain,I am suffering from cervical pain
+630,NECK_SHOULDER_PAIN,neck stiffness,I feel stiffness in my neck
+631,NECK_SHOULDER_PAIN,shoulder pain,I have shoulder pain
+632,NECK_SHOULDER_PAIN,shoulder stiffness,My shoulders feel stiff
+633,NECK_SHOULDER_PAIN,frozen shoulder,I have frozen shoulder problem
+634,NECK_SHOULDER_PAIN,neck tension,I feel tension in my neck
+635,NECK_SHOULDER_PAIN,shoulder tension,I have tension in shoulders
+636,NECK_SHOULDER_PAIN,upper body pain,I have pain in upper body
+637,NECK_SHOULDER_PAIN,neck discomfort,I feel discomfort in my neck
+638,NECK_SHOULDER_PAIN,shoulder discomfort,I feel discomfort in shoulders
+639,NECK_SHOULDER_PAIN,cervical stiffness,My cervical area is stiff
+640,NECK_SHOULDER_PAIN,neck tightness,I feel tightness in my neck
+641,NECK_SHOULDER_PAIN,shoulder tightness,My shoulders feel tight
+642,NECK_SHOULDER_PAIN,neck strain,I have strained my neck
+643,NECK_SHOULDER_PAIN,shoulder strain,My shoulder muscles are strained
+644,NECK_SHOULDER_PAIN,neck muscle pain,I have neck muscle pain
+645,NECK_SHOULDER_PAIN,shoulder muscle pain,I have shoulder muscle pain
+646,NECK_SHOULDER_PAIN,cervical problem,I have a cervical problem
+647,NECK_SHOULDER_PAIN,neck pain while working,I get neck pain while working
+648,NECK_SHOULDER_PAIN,shoulder pain while working,I feel shoulder pain while working
+649,NECK_SHOULDER_PAIN,neck pain while sleeping,I get neck pain while sleeping
+650,NECK_SHOULDER_PAIN,shoulder pain while sleeping,Shoulder pain affects my sleep
+651,NECK_SHOULDER_PAIN,neck stiffness problem,I have neck stiffness problem
+652,NECK_SHOULDER_PAIN,shoulder stiffness problem,I have shoulder stiffness problem
+653,NECK_SHOULDER_PAIN,upper neck pain,I feel pain in upper neck
+654,NECK_SHOULDER_PAIN,lower neck pain,I feel pain in lower neck
+655,NECK_SHOULDER_PAIN,left shoulder pain,I have pain in my left shoulder
+656,NECK_SHOULDER_PAIN,right shoulder pain,I have pain in my right shoulder
+657,NECK_SHOULDER_PAIN,neck pressure,I feel pressure in my neck
+658,NECK_SHOULDER_PAIN,shoulder pressure,I feel pressure in shoulders
+659,NECK_SHOULDER_PAIN,neck heaviness,My neck feels heavy
+660,NECK_SHOULDER_PAIN,shoulder heaviness,My shoulders feel heavy
+661,NECK_SHOULDER_PAIN,neck weakness,My neck feels weak
+662,NECK_SHOULDER_PAIN,shoulder weakness,My shoulders feel weak
+663,NECK_SHOULDER_PAIN,neck pain continuously,I have continuous neck pain
+664,NECK_SHOULDER_PAIN,shoulder pain continuously,I have continuous shoulder pain
+665,NECK_SHOULDER_PAIN,neck discomfort problem,I have neck discomfort problem
+666,NECK_SHOULDER_PAIN,shoulder discomfort problem,I have shoulder discomfort problem
+667,NECK_SHOULDER_PAIN,cervical tension,I feel cervical tension
+668,NECK_SHOULDER_PAIN,neck mobility issue,I have neck mobility issues
+669,NECK_SHOULDER_PAIN,shoulder mobility issue,I have shoulder mobility issues
+670,NECK_SHOULDER_PAIN,neck movement pain,Neck movement causes pain
+671,NECK_SHOULDER_PAIN,shoulder movement pain,Shoulder movement causes pain
+672,NECK_SHOULDER_PAIN,neck stiffness while waking,I feel neck stiffness after waking
+673,NECK_SHOULDER_PAIN,shoulder stiffness while waking,I feel shoulder stiffness after waking
+674,NECK_SHOULDER_PAIN,neck pain due to posture,Bad posture causes neck pain
+675,NECK_SHOULDER_PAIN,shoulder pain due to posture,Posture causes shoulder pain
+676,NECK_SHOULDER_PAIN,cervical discomfort,I feel cervical discomfort
+677,NECK_SHOULDER_PAIN,neck pain and stiffness,I have neck pain and stiffness
+678,NECK_SHOULDER_PAIN,shoulder pain and stiffness,I have shoulder pain and stiffness
+679,NECK_SHOULDER_PAIN,neck joint pain,I have neck joint pain
+680,NECK_SHOULDER_PAIN,shoulder joint pain,I have shoulder joint pain
+681,NECK_SHOULDER_PAIN,neck inflammation,I have neck inflammation
+682,NECK_SHOULDER_PAIN,shoulder inflammation,I have shoulder inflammation
+683,NECK_SHOULDER_PAIN,neck pain health issue,Neck pain is affecting my health
+684,NECK_SHOULDER_PAIN,shoulder pain health issue,Shoulder pain affects my health
+685,NECK_SHOULDER_PAIN,neck tension problem,I have neck tension problem
+686,NECK_SHOULDER_PAIN,shoulder tension problem,I have shoulder tension problem
+687,NECK_SHOULDER_PAIN,neck stress,Stress causes neck pain
+688,NECK_SHOULDER_PAIN,shoulder stress,Stress causes shoulder pain
+689,NECK_SHOULDER_PAIN,neck tight muscles,My neck muscles are tight
+690,NECK_SHOULDER_PAIN,shoulder tight muscles,My shoulder muscles are tight
+691,NECK_SHOULDER_PAIN,neck pain problem,I have a neck pain problem
+692,NECK_SHOULDER_PAIN,shoulder pain problem,I have a shoulder pain problem
+693,NECK_SHOULDER_PAIN,neck pain while sitting,I get neck pain while sitting
+694,NECK_SHOULDER_PAIN,shoulder pain while sitting,I get shoulder pain while sitting
+695,NECK_SHOULDER_PAIN,neck pain while driving,I get neck pain while driving
+696,NECK_SHOULDER_PAIN,shoulder pain while driving,I get shoulder pain while driving
+697,NECK_SHOULDER_PAIN,neck stiffness continuously,I have continuous neck stiffness
+698,NECK_SHOULDER_PAIN,shoulder stiffness continuously,I have continuous shoulder stiffness
+699,NECK_SHOULDER_PAIN,neck pain due to screen use,Screen use causes neck pain
+700,NECK_SHOULDER_PAIN,shoulder pain due to screen use,Screen use causes shoulder pain
+701,NECK_SHOULDER_PAIN,neck pain relief need,I need relief from neck pain
+702,NECK_SHOULDER_PAIN,shoulder pain relief need,I need relief from shoulder pain
+703,NECK_SHOULDER_PAIN,neck discomfort continuously,I feel continuous neck discomfort
+704,NECK_SHOULDER_PAIN,shoulder discomfort continuously,I feel continuous shoulder discomfort
+705,NECK_SHOULDER_PAIN,neck posture issue,I have neck posture issues
+706,NECK_SHOULDER_PAIN,shoulder posture issue,I have shoulder posture issues
+707,NECK_SHOULDER_PAIN,neck pain yoga need,I need yoga for neck pain
+708,NECK_SHOULDER_PAIN,shoulder pain yoga need,I need yoga for shoulder pain
+709,NECK_SHOULDER_PAIN,neck pain daily,I experience neck pain daily
+710,NECK_SHOULDER_PAIN,shoulder pain daily,I experience shoulder pain daily
+711,NECK_SHOULDER_PAIN,neck pain discomfort,Neck pain causes discomfort
+712,NECK_SHOULDER_PAIN,shoulder pain discomfort,Shoulder pain causes discomfort
+713,NECK_SHOULDER_PAIN,neck stiffness health issue,Neck stiffness affects my health
+714,NECK_SHOULDER_PAIN,shoulder stiffness health issue,Shoulder stiffness affects my health
+715,NECK_SHOULDER_PAIN,neck movement restriction,My neck movement is restricted
+716,NECK_SHOULDER_PAIN,shoulder movement restriction,My shoulder movement is restricted
+717,NECK_SHOULDER_PAIN,neck pain improvement,I want to improve neck pain
+718,NECK_SHOULDER_PAIN,shoulder pain improvement,I want to improve shoulder pain
+719,NECK_SHOULDER_PAIN,neck stiffness improvement,I want to reduce neck stiffness
+720,NECK_SHOULDER_PAIN,shoulder stiffness improvement,I want to reduce shoulder stiffness
+721,NECK_SHOULDER_PAIN,neck pain concern,Neck pain is my concern
+722,NECK_SHOULDER_PAIN,shoulder pain concern,Shoulder pain is my concern
+723,NECK_SHOULDER_PAIN,neck discomfort health concern,Neck discomfort affects my health
+724,NECK_SHOULDER_PAIN,shoulder discomfort health concern,Shoulder discomfort affects my health
+725,NECK_SHOULDER_PAIN,neck pain continuously daily,I have continuous daily neck pain
+726,NECK_SHOULDER_PAIN,shoulder pain continuously daily,I have continuous daily shoulder pain
+727,ENERGY_FATIGUE,low energy,I feel low on energy
+728,ENERGY_FATIGUE,tired,I feel tired all the time
+729,ENERGY_FATIGUE,fatigue,I am suffering from fatigue
+730,ENERGY_FATIGUE,weakness,I feel weakness in my body
+731,ENERGY_FATIGUE,low stamina,My stamina is very low
+732,ENERGY_FATIGUE,exhausted,I feel exhausted
+733,ENERGY_FATIGUE,energy loss,I feel energy loss daily
+734,ENERGY_FATIGUE,body weakness,I have body weakness
+735,ENERGY_FATIGUE,physical fatigue,I have physical fatigue
+736,ENERGY_FATIGUE,mental fatigue,I have mental fatigue
+737,ENERGY_FATIGUE,tiredness,I feel constant tiredness
+738,ENERGY_FATIGUE,low strength,I have low strength
+739,ENERGY_FATIGUE,no energy,I have no energy left
+740,ENERGY_FATIGUE,feeling drained,I feel completely drained
+741,ENERGY_FATIGUE,low vitality,My vitality is very low
+742,ENERGY_FATIGUE,lack of energy,I lack energy throughout the day
+743,ENERGY_FATIGUE,weak body,My body feels weak
+744,ENERGY_FATIGUE,energy drop,I experience sudden energy drop
+745,ENERGY_FATIGUE,feeling sleepy,I feel sleepy all day
+746,ENERGY_FATIGUE,lethargic,I feel lethargic
+747,ENERGY_FATIGUE,low power,I have low power in my body
+748,ENERGY_FATIGUE,energy problem,I have energy related problems
+749,ENERGY_FATIGUE,constant fatigue,I have constant fatigue
+750,ENERGY_FATIGUE,muscle weakness,I have muscle weakness
+751,ENERGY_FATIGUE,low endurance,My endurance is low
+752,ENERGY_FATIGUE,energy deficiency,I feel energy deficiency
+753,ENERGY_FATIGUE,body tiredness,I have body tiredness
+754,ENERGY_FATIGUE,mental tiredness,I have mental tiredness
+755,ENERGY_FATIGUE,low motivation,Low energy affects my motivation
+756,ENERGY_FATIGUE,feeling lazy,I feel lazy all the time
+757,ENERGY_FATIGUE,energy imbalance,I feel energy imbalance
+758,ENERGY_FATIGUE,feeling dull,I feel dull and inactive
+759,ENERGY_FATIGUE,low productivity,Low energy reduces productivity
+760,ENERGY_FATIGUE,energy crash,I experience energy crash
+761,ENERGY_FATIGUE,feeling weak daily,I feel weak daily
+762,ENERGY_FATIGUE,daytime fatigue,I have fatigue during the day
+763,ENERGY_FATIGUE,morning tiredness,I feel tired in the morning
+764,ENERGY_FATIGUE,evening fatigue,I feel fatigue in the evening
+765,ENERGY_FATIGUE,low body power,My body power is low
+766,ENERGY_FATIGUE,low physical energy,I have low physical energy
+767,ENERGY_FATIGUE,low mental energy,I have low mental energy
+768,ENERGY_FATIGUE,energy depletion,I feel energy depletion
+769,ENERGY_FATIGUE,overall weakness,I have overall weakness
+770,ENERGY_FATIGUE,feeling inactive,I feel inactive most of the time
+771,ENERGY_FATIGUE,body exhaustion,I feel body exhaustion
+772,ENERGY_FATIGUE,mind exhaustion,My mind feels exhausted
+773,ENERGY_FATIGUE,energy recovery,I want energy recovery
+774,ENERGY_FATIGUE,need more energy,I need more energy
+775,ENERGY_FATIGUE,boost energy,I want to boost my energy
+776,ENERGY_FATIGUE,energy improvement,I want to improve my energy
+777,ENERGY_FATIGUE,feeling powerless,I feel powerless
+778,ENERGY_FATIGUE,low activity level,My activity level is low
+779,ENERGY_FATIGUE,body heaviness,My body feels heavy
+780,ENERGY_FATIGUE,slow body,My body feels slow
+781,ENERGY_FATIGUE,energy imbalance issue,I have energy imbalance issue
+782,ENERGY_FATIGUE,weak immune feeling,I feel immunity is weak
+783,ENERGY_FATIGUE,low daily energy,My daily energy is low
+784,ENERGY_FATIGUE,energy support,I need energy support
+785,ENERGY_FATIGUE,energy yoga need,I need yoga for energy
+786,ENERGY_FATIGUE,prana deficiency,I feel prana deficiency
+787,ENERGY_FATIGUE,low life force,My life force feels low
+788,ENERGY_FATIGUE,energy imbalance feeling,I feel energy imbalance
+789,ENERGY_FATIGUE,weakness problem,I have weakness problem
+790,ENERGY_FATIGUE,energy related issue,I have energy related issues
+791,ENERGY_FATIGUE,low enthusiasm,I lack enthusiasm
+792,ENERGY_FATIGUE,energy drop daily,I face daily energy drop
+793,ENERGY_FATIGUE,energy loss problem,I have energy loss problem
+794,ENERGY_FATIGUE,constant low energy,I have constant low energy
+795,ENERGY_FATIGUE,feeling drained daily,I feel drained daily
+796,ENERGY_FATIGUE,energy fatigue issue,I have energy fatigue issue
+797,ENERGY_FATIGUE,body tired problem,I have body tired problem
+798,ENERGY_FATIGUE,mental exhaustion,I have mental exhaustion
+799,ENERGY_FATIGUE,low energy concern,Low energy is my concern
+800,ENERGY_FATIGUE,energy weakness,I feel energy weakness
+801,ENERGY_FATIGUE,body power loss,I feel body power loss
+802,ENERGY_FATIGUE,energy recovery need,I need energy recovery
+803,ENERGY_FATIGUE,energy healing,I want energy healing
+804,ENERGY_FATIGUE,low energy lifestyle,Low energy affects my lifestyle
+805,ENERGY_FATIGUE,weak feeling,I feel weak
+806,ENERGY_FATIGUE,low vitality issue,I have low vitality issue
+807,ENERGY_FATIGUE,energy balance,I want energy balance
+808,ENERGY_FATIGUE,energy increase,I want to increase energy
+809,ENERGY_FATIGUE,energy improvement yoga,I want yoga for energy improvement
+810,ENERGY_FATIGUE,low physical strength,I have low physical strength
+811,ENERGY_FATIGUE,low mental strength,I have low mental strength
+812,ENERGY_FATIGUE,energy support yoga,I need yoga for energy support
+813,ENERGY_FATIGUE,body fatigue daily,I have daily body fatigue
+814,ENERGY_FATIGUE,mind fatigue daily,I have daily mind fatigue
+815,ENERGY_FATIGUE,energy loss feeling,I feel energy loss
+816,ENERGY_FATIGUE,energy boost need,I need an energy boost
+817,ENERGY_FATIGUE,low energy symptoms,I have low energy symptoms
+818,ENERGY_FATIGUE,energy improvement need,I need energy improvement
+819,ENERGY_FATIGUE,constant tired feeling,I feel constantly tired
+820,ENERGY_FATIGUE,energy weakness problem,I have energy weakness problem
+821,ENERGY_FATIGUE,energy balance issue,I have energy balance issue
+822,ENERGY_FATIGUE,body fatigue concern,Body fatigue is my concern
+823,ENERGY_FATIGUE,mental fatigue concern,Mental fatigue is my concern
+824,ENERGY_FATIGUE,low energy daily,I feel low energy daily
+825,ENERGY_FATIGUE,energy recovery yoga,I need yoga for energy recovery
+826,ENERGY_FATIGUE,energy wellness,I want energy wellness
+827,SLEEP_INSOMNIA,insomnia,I am suffering from insomnia
+828,SLEEP_INSOMNIA,sleep problem,I have sleep problems
+829,SLEEP_INSOMNIA,unable to sleep,I am unable to sleep at night
+830,SLEEP_INSOMNIA,sleeplessness,I have sleeplessness
+831,SLEEP_INSOMNIA,poor sleep,I get poor sleep daily
+832,SLEEP_INSOMNIA,disturbed sleep,My sleep is disturbed
+833,SLEEP_INSOMNIA,irregular sleep,I have irregular sleep cycle
+834,SLEEP_INSOMNIA,late sleep,I sleep very late at night
+835,SLEEP_INSOMNIA,early waking,I wake up very early
+836,SLEEP_INSOMNIA,night waking,I wake up many times at night
+837,SLEEP_INSOMNIA,restless sleep,My sleep is restless
+838,SLEEP_INSOMNIA,light sleep,I have very light sleep
+839,SLEEP_INSOMNIA,deep sleep issue,I do not get deep sleep
+840,SLEEP_INSOMNIA,sleep disorder,I have a sleep disorder
+841,SLEEP_INSOMNIA,sleep difficulty,I face difficulty sleeping
+842,SLEEP_INSOMNIA,sleep anxiety,Anxiety affects my sleep
+843,SLEEP_INSOMNIA,sleep stress,Stress affects my sleep
+844,SLEEP_INSOMNIA,night stress,I feel stressed at night
+845,SLEEP_INSOMNIA,night anxiety,I feel anxious at night
+846,SLEEP_INSOMNIA,overthinking at night,I overthink at night
+847,SLEEP_INSOMNIA,can't fall asleep,I can't fall asleep easily
+848,SLEEP_INSOMNIA,delayed sleep,My sleep is delayed
+849,SLEEP_INSOMNIA,broken sleep,I have broken sleep
+850,SLEEP_INSOMNIA,poor sleep quality,My sleep quality is poor
+851,SLEEP_INSOMNIA,night restlessness,I feel restless at night
+852,SLEEP_INSOMNIA,mental disturbance at night,My mind is disturbed at night
+853,SLEEP_INSOMNIA,frequent night waking,I wake up frequently at night
+854,SLEEP_INSOMNIA,unrefreshing sleep,My sleep is not refreshing
+855,SLEEP_INSOMNIA,sleep fatigue,I feel tired after sleeping
+856,SLEEP_INSOMNIA,short sleep,I sleep for a short time
+857,SLEEP_INSOMNIA,sleep deprivation,I suffer from sleep deprivation
+858,SLEEP_INSOMNIA,night discomfort,I feel discomfort at night
+859,SLEEP_INSOMNIA,night worry,I worry at night
+860,SLEEP_INSOMNIA,night panic,I get panic at night
+861,SLEEP_INSOMNIA,sleep interruption,My sleep gets interrupted
+862,SLEEP_INSOMNIA,difficulty falling asleep,I have difficulty falling asleep
+863,SLEEP_INSOMNIA,difficulty staying asleep,I have difficulty staying asleep
+864,SLEEP_INSOMNIA,night tension,I feel tension at night
+865,SLEEP_INSOMNIA,sleep cycle issue,My sleep cycle is disturbed
+866,SLEEP_INSOMNIA,irregular bedtime,I have irregular bedtime
+867,SLEEP_INSOMNIA,night thoughts,Too many thoughts at night
+868,SLEEP_INSOMNIA,mind active at night,My mind stays active at night
+869,SLEEP_INSOMNIA,late night anxiety,I have anxiety late at night
+870,SLEEP_INSOMNIA,late night stress,I feel stressed late at night
+871,SLEEP_INSOMNIA,night fear,I feel fear at night
+872,SLEEP_INSOMNIA,sleep imbalance,I have sleep imbalance
+873,SLEEP_INSOMNIA,poor night rest,I do not rest well at night
+874,SLEEP_INSOMNIA,sleep wellness issue,I have sleep wellness issues
+875,SLEEP_INSOMNIA,night discomfort problem,I have night discomfort problem
+876,SLEEP_INSOMNIA,sleep health issue,Sleep affects my health
+877,SLEEP_INSOMNIA,sleep improvement,I want to improve my sleep
+878,SLEEP_INSOMNIA,better sleep need,I want better sleep
+879,SLEEP_INSOMNIA,sleep recovery,I need sleep recovery
+880,SLEEP_INSOMNIA,sleep relaxation,I need relaxation for sleep
+881,SLEEP_INSOMNIA,yoga for sleep,I want yoga for sleep
+882,SLEEP_INSOMNIA,deep sleep need,I want deep sleep
+883,SLEEP_INSOMNIA,night calm,I want calm nights
+884,SLEEP_INSOMNIA,peaceful sleep,I want peaceful sleep
+885,SLEEP_INSOMNIA,night relaxation,I need night relaxation
+886,SLEEP_INSOMNIA,sleep therapy,I need sleep therapy
+887,SLEEP_INSOMNIA,sleep balance,I want sleep balance
+888,SLEEP_INSOMNIA,night rest issue,I have night rest issues
+889,SLEEP_INSOMNIA,night restlessness problem,I have night restlessness problem
+890,SLEEP_INSOMNIA,poor bedtime routine,My bedtime routine is poor
+891,SLEEP_INSOMNIA,night mental stress,I feel mental stress at night
+892,SLEEP_INSOMNIA,night overthinking,I overthink before sleeping
+893,SLEEP_INSOMNIA,night anxiety problem,I have night anxiety problem
+894,SLEEP_INSOMNIA,sleep calm need,I need calm sleep
+895,SLEEP_INSOMNIA,sleep support,I need sleep support
+896,SLEEP_INSOMNIA,sleep yoga need,I need yoga for better sleep
+897,SLEEP_INSOMNIA,sleep improvement yoga,I want yoga to improve sleep
+898,SLEEP_INSOMNIA,night discomfort health,Night discomfort affects my health
+899,SLEEP_INSOMNIA,night worry problem,I have night worry problem
+900,SLEEP_INSOMNIA,night fear problem,I have night fear problem
+901,SLEEP_INSOMNIA,sleep peace,I want sleep peace
+902,SLEEP_INSOMNIA,night mental fatigue,I feel mentally tired at night
+903,SLEEP_INSOMNIA,night tension problem,I have night tension problem
+904,SLEEP_INSOMNIA,sleep calmness,I want calmness during sleep
+905,SLEEP_INSOMNIA,night sleep issue,I have night sleep issues
+906,SLEEP_INSOMNIA,sleep disturbance problem,I have sleep disturbance problem
+907,SLEEP_INSOMNIA,night discomfort concern,Night discomfort is my concern
+908,SLEEP_INSOMNIA,sleep quality improvement,I want to improve sleep quality
+909,SLEEP_INSOMNIA,sleep imbalance problem,I have sleep imbalance problem
+910,SLEEP_INSOMNIA,night anxiety concern,Night anxiety is my concern
+911,SLEEP_INSOMNIA,night stress concern,Night stress is my concern
+912,SLEEP_INSOMNIA,sleep relaxation yoga,I want yoga for sleep relaxation
+913,SLEEP_INSOMNIA,sleep calm therapy,I want calm sleep therapy
+914,SLEEP_INSOMNIA,night peace,I want peace at night
+915,SLEEP_INSOMNIA,night rest improvement,I want to improve night rest
+916,SLEEP_INSOMNIA,sleep wellness,I want sleep wellness
+917,SLEEP_INSOMNIA,night discomfort daily,I feel night discomfort daily
+918,SLEEP_INSOMNIA,sleep problem daily,I face sleep problems daily
+919,SLEEP_INSOMNIA,sleep anxiety problem,Sleep anxiety affects me
+920,SLEEP_INSOMNIA,sleep stress problem,Sleep stress affects me
+921,SLEEP_INSOMNIA,sleep fatigue problem,I feel fatigue due to poor sleep
+922,SLEEP_INSOMNIA,sleep routine issue,My sleep routine is poor
+923,SLEEP_INSOMNIA,night overthinking issue,Night overthinking affects sleep
+924,SLEEP_INSOMNIA,peaceful sleep need,I need peaceful sleep
+925,SLEEP_INSOMNIA,deep sleep yoga,I want yoga for deep sleep
+926,SLEEP_INSOMNIA,sleep healing,I want sleep healing

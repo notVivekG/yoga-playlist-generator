@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 Thumbs.db
 .vscode/
 .idea/
+
+# Python 
+venv/
+.venv/

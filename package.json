@@ -4,7 +4,9 @@
   "description": "Project based on AI Yoga video suggestions from youtube",
   "main": "index.js",
   "scripts": {
+    "start": "cd backend && .\\venv\\Scripts\\python app.py",
     "build": "tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "dev": "concurrently \"npm start\" \"npm run build\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +23,7 @@
   "homepage": "https://github.com/notVivekG/Minor-Project#readme",
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.16",
+    "concurrently": "^9.2.1",
     "tailwindcss": "^4.1.16"
   }
 }

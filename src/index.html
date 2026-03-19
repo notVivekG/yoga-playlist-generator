@@ -5,105 +5,117 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI Yoga Course</title>
-  <link href="./output.css" rel="stylesheet"> 
+  <link href="./output.css" rel="stylesheet">
 </head>
 
 <body class="bg-gray-100">
-<nav class=" flex justify-between items-center px-4 py-2 bg-black shadow-md">
 
-    <div class="flex items-center space-x-3">
-      <h1 class="text-2xl font-bold text-white">AI Yoga Course</h1> 
-      <h3 id="yt"></h3>
-    </div>
+<!-- NAVBAR -->
+<nav class="flex justify-between items-center px-4 py-2 bg-black shadow-md">
 
-    <ul class="hidden md:flex justify-center items-center space-x-8 ">
-      <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">HOME</button></li>
-      <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">About us</button></li>
-      <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md hover:opacity-90">Contact us</button></li>
-    </ul> 
+  <div class="flex items-center space-x-3">
+    <h1 class="text-2xl font-bold text-white">AI Yoga Course</h1>
+    <h3 id="yt"></h3>
+  </div>
 
-    <div>
-      <button class="hover:text-blue-500 hover:bg-white text-white px-4 py-2 rounded-md font-semibold hover:opacity-90">Log in</button>
-    </div>
-    
-  </nav>
+  <ul class="hidden md:flex justify-center items-center space-x-8">
+    <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md">HOME</button></li>
+    <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md">About us</button></li>
+    <li><button class="hover:text-blue-500 hover:bg-white text-white font-semibold px-4 py-2 rounded-md">Contact us</button></li>
+  </ul>
 
+  <button class="hover:text-blue-500 hover:bg-white text-white px-4 py-2 rounded-md font-semibold">Log in</button>
+</nav>
 
-  <section id="header" class="flex flex-col items-center  text-center h-screen px-4 pt-5">
-    <div class="inline bg-purple-50 px-7 py-2 mb-16 mt-8 text-xl font-semibold rounded-full shadow-md ">
-      <button class="  text-purple-500 bg-linear-to-r from-purple-400 to-teal-300 bg-clip-text hover:text-transparent transition-all duration-700 ease-in-out">
+<!-- HEADER -->
+<section id="header" class="flex flex-col items-center text-center h-screen px-4 pt-5">
+
+  <div class="inline bg-purple-50 px-7 py-2 mb-16 mt-8 text-xl font-semibold rounded-full shadow-md">
+    <span class="text-purple-500 bg-linear-to-r from-purple-400 to-teal-300 bg-clip-text">
       ✨ AI-Powered Yoga Courses
-      </button>
-    </div>
+    </span>
+  </div>
 
-    <h1 class="
-    text-5xl md:text-8xl font-bold mb-16 bg-linear-to-r from-purple-400 to-teal-300 bg-clip-text text-transparent transition-all duration-700 ease-in-out">
-      Your Personal Yoga Journey
-      <br>Starts Here
-    </h1>
+  <h1 class="text-5xl md:text-8xl font-bold mb-10 bg-linear-to-r from-purple-400 to-teal-300 bg-clip-text text-transparent">
+    Your Personal Yoga Journey
+    <br>Starts Here
+  </h1>
 
-    <p class="text-gray-400 space-y-10 text-2xl  leading-relaxed">
-      Generate personalized yoga courses tailored to your level.<br>
-      Each day brings new lessons from expert instructors...
-    </p>
-  </section>
+  <p class="text-gray-400 text-2xl leading-relaxed mb-10">
+    Generate personalized yoga courses tailored to your level.<br>
+    Each day brings new lessons from expert instructors...
+  </p>
 
-  <section id="Course_Length" class="my-10 mx-4">
+  <!-- USER INPUT (ADDED) -->
+  <input
+    id="userInput"
+    type="text"
+    placeholder="Describe your problem (stress, anxiety, tension...)"
+    class="m-4 px-4 py-4 w-96 border rounded-lg shadow-md"
+  />
 
-    <div class="flex flex-col gap-1 px-4 py-8 bg-white text-black">
-        <h1 class="text-3xl font-semibold">Choose Your Course Length</h1>
-        <p class="text-slate-600 text-base">Select the duration that fits your goals</p>
-        </br>
-        <div class="group relative transition flex flex-col justify-around items-start m-3 p-5 rounded-lg border-3 h-45 border-purple-300 hover:border-purple-600 hover:bg-purple-100">
-            <span class="absolute top-10 right-10 text-green-500 text-xl opacity-0 group-hover:opacity-100 transition-opacity">
-                &#x2714;
-            </span>
-            <div class="text-2xl font-semibold ">Beginner</div>
-            <div class="text-base rounded-2xl bg-sky-300 px-2 font-medium text-white ">⏱️7-days</div>
-            <div class="text-sm text-gray-500 font-medium">Perfect for starting your Yoga Journey</div>
-            <div class="text-sm font-bold text-pink-500">7 Lessons</div>
-        </div>
-        <div class="group relative transition flex flex-col justify-around items-start m-3 p-5 rounded-lg border-3 h-45 border-purple-300 hover:border-purple-600 hover:bg-purple-100">
-            <span class="absolute top-10 right-10 text-green-500 text-xl opacity-0 group-hover:opacity-100 transition-opacity">
-                &#x2714;
-            </span>
-            <div class="text-2xl font-semibold ">Intermediate</div>
-            <div class="text-base rounded-2xl bg-sky-300 px-2 font-medium text-white ">⏱️14-days</div>
-            <div class="text-sm text-gray-500 font-medium">Build on your foundation</div>
-            <div class="text-sm font-bold text-pink-500">14 Lessons</div>
-        </div>
-        <div class="group relative transition flex flex-col justify-around items-start m-3 p-5 rounded-lg border-3 h-45 border-purple-300 hover:border-purple-600 hover:bg-purple-100">
-            <span class="absolute top-10 right-10 text-green-500 text-xl opacity-0 group-hover:opacity-100 transition-opacity">
-                &#x2714;
-            </span>
-            <div class="text-2xl font-semibold ">Advanced</div>
-            <div class="text-base rounded-2xl bg-sky-300 px-2 font-medium text-white ">⏱️30-days</div>
-            <div class="text-sm text-gray-500 font-medium">Master your practice</div>
-            <div class="text-sm font-bold text-pink-500">30 Lessons</div>
-        </div>
-    </div>
+  <button
+    onclick="getYoga()"
+    class="w-64 px-6 py-3 bg-purple-500 text-black rounded-lg font-semibold hover:bg-purple-700 border-2 border-purple-700 shadow-md"
+  >
+    Generate Yoga Playlist
+  </button>
 
-    </section>
+  <!-- RESULT -->
+  <div id="result" class="mt-8 text-lg text-gray-700"></div>
 
-</body>
+</section>
+
+<!-- JS -->
 <script>
-  const ytBtn = document.querySelector('#yt');
+async function getYoga() {
+  const text = document.getElementById("userInput").value;
 
+  if (!text) {
+    alert("Please enter your problem");
+    return;
+  }
 
-  const changeText = function () {
-    ytBtn.textContent = "Buy now";
-    ytBtn.className = "text-lg mx-4 font-semibold bg-black hover:text-black hover:bg-gray-300 text-yellow-300 rounded-2xl py-1 px-2 min-w-[90px] text-center";
-    setTimeout(changeText2, 2000);
-  };
+  const response = await fetch("http://127.0.0.1:5000/recommend", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ user_text: text })
+  });
 
-  const changeText2 = function () {
-    ytBtn.textContent = "60% off";
-    ytBtn.className = "text-lg mx-4 font-semibold bg-black hover:text-black hover:bg-gray-300 text-yellow-300 rounded-2xl py-1 px-2 min-w-[90px] text-center";
-    setTimeout(changeText, 2000);
-  };
+  const data = await response.json();
 
-  changeText();
+  if (data.length === 0) {
+    document.getElementById("result").innerHTML =
+      "<p class='text-red-500'>No recommendations found.</p>";
+    return;
+  }
 
+  let output = `
+    <h3 class="font-bold text-2xl mb-4">Recommended Yoga Playlist</h3>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+  `;
+
+  data.forEach(item => {
+    const videoId = item.yt_link.split("youtu.be/")[1]?.split("?")[0];
+
+    output += `
+      <div class="bg-white rounded-xl shadow-md p-4">
+        <h4 class="font-semibold text-lg mb-2">${item.yoga_type}</h4>
+        <iframe
+          class="w-full h-56 rounded-lg"
+          src="https://www.youtube.com/embed/${videoId}"
+          frameborder="0"
+          allowfullscreen>
+        </iframe>
+      </div>
+    `;
+  });
+
+  output += "</div>";
+  document.getElementById("result").innerHTML = output;
+}
 </script>
 
+
+</body>
 </html>

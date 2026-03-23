@@ -26,11 +26,11 @@ The app maps input text to yoga categories, then returns matching YouTube yoga v
    - `pip install flask flask-cors pandas`
 
 ## Run Locally
--First Start backend : 
- - `cd backend`
- - `python -m venv venv`
--Activate Virtual Environment : 
- - `venv\Scripts\activate`
+- First Start backend : 
+  - `cd backend`
+  - `python -m venv venv`
+- Activate Virtual Environment : 
+  - `venv\Scripts\activate`
 - To Run backend + Tailwind watcher together:
   - `npm run dev`
 - Open:

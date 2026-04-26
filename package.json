@@ -6,6 +6,7 @@
   "scripts": {
     "start": "cd backend && .\\venv\\Scripts\\python app.py",
     "build": "tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "build:prod": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
     "dev": "concurrently \"npm start\" \"npm run build\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

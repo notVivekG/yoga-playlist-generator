@@ -6,12 +6,15 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-SRC_DIR = os.path.join(os.path.dirname(__file__), "..", "src")
+BASE_DIR = os.path.dirname(__file__)
+PROD_DIR = os.path.join(BASE_DIR, "..", "dist")
+DEV_DIR = os.path.join(BASE_DIR, "..", "src")
+SRC_DIR = PROD_DIR if os.path.exists(PROD_DIR) else DEV_DIR
 
 # Load CSV files
-sentence_df = pd.read_csv("sentence_to_keywords.csv")
-keyword_df = pd.read_csv("keywords_to_yoga.csv")
-yoga_df = pd.read_csv("yoga_to_yt.csv")
+sentence_df = pd.read_csv(os.path.join(BASE_DIR, "sentence_to_keywords.csv"))
+keyword_df = pd.read_csv(os.path.join(BASE_DIR, "keywords_to_yoga.csv"))
+yoga_df = pd.read_csv(os.path.join(BASE_DIR, "yoga_to_yt.csv"))
 
 @app.route("/")
 def index():

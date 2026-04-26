@@ -4,8 +4,8 @@ import pandas as pd
 import os
 
 app = Flask(__name__)
-CORS(app)
-
+# Explicitly open CORS for the frontend domain
+CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 BASE_DIR = os.path.dirname(__file__)
 PROD_DIR = os.path.join(BASE_DIR, "..", "dist")
 DEV_DIR = os.path.join(BASE_DIR, "..", "src")

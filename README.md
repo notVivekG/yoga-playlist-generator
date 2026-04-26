@@ -1,5 +1,7 @@
 # 🧘‍♀️ AI Yoga Playlist Generator
 
+![AI Yoga Playlist Generator Screenshot](./screenshot.png)
+
 An intelligent, AI-powered web application that generates personalized yoga video recommendations based on your physical or emotional concerns (e.g., stress, anxiety, neck tension). 
 
 The app maps natural language input to curated yoga categories and dynamically serves the best matching YouTube yoga routines for your specific needs.
